@@ -573,3 +573,10 @@ Local vaults, clear UX, and maintainable architecture.
 ---
 
 _Updated by [Argus](https://github.com/edwardlthompson/Argus). Marker: `argus:profile-readme`._
+
+## What this is not
+
+- A finished commercial product promise
+- A place for secrets or production credentials
+- An unbounded scope — see README goals above
+
