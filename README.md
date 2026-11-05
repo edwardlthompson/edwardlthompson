@@ -80,7 +80,7 @@ Import, transform, and present structured information safely.
 <tr>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/DevPulse">
-<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/branding/assets/app-icon-512.svg" alt="DevPulse" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/examples/android/metadata/en-US/images/icon.png" alt="DevPulse" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/DevPulse"><sub>DevPulse</sub></a>
 <br/><sub>★3 · Watch 0 · Fork 0</sub>
@@ -138,7 +138,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/AstroAlarm">
-<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/AstroAlarm.png" alt="AstroAlarm" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/AstroAlarm"><sub>AstroAlarm</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
@@ -152,7 +152,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/chromaflow">
-<img src="https://raw.githubusercontent.com/edwardlthompson/chromaflow/main/branding/assets/app-icon-512.svg" alt="chromaflow" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/chromaflow/main/apps/desktop/src-tauri/icons/icon.png" alt="chromaflow" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/chromaflow"><sub>chromaflow</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
@@ -247,7 +247,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/Google-Messages-For-Desktop">
-<img src="https://raw.githubusercontent.com/edwardlthompson/Google-Messages-For-Desktop/master/branding/assets/app-icon-512.svg" alt="Google-Messages-For-Desktop" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/Google-Messages-For-Desktop/master/electron/resources/tray/icon.png" alt="Google-Messages-For-Desktop" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/Google-Messages-For-Desktop"><sub>Google-Messages-For-Desktop</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
@@ -268,7 +268,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/Argus">
-<img src="https://raw.githubusercontent.com/edwardlthompson/Argus/main/branding/assets/app-icon-512.svg" alt="Argus" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/Argus.png" alt="Argus" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/Argus"><sub>Argus</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
