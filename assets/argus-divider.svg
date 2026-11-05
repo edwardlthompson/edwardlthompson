@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12">
+<style>
+@keyframes slide {
+  0% { transform: translateX(-30%) }
+  100% { transform: translateX(130%) }
+}
+.shine { animation: slide 9s linear infinite }
+</style>
+<defs>
+<linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.15"/>
+<stop offset="50%" stop-color="#22d3ee" stop-opacity="0.85"/>
+<stop offset="100%" stop-color="#14b8a6" stop-opacity="0.15"/>
+</linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+<stop offset="50%" stop-color="#fff" stop-opacity="0.55"/>
+<stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="c"><rect x="40" y="4" width="1120" height="4" rx="2"/></clipPath>
+</defs>
+<rect x="40" y="4" width="1120" height="4" rx="2" fill="url(#d)"/>
+<g clip-path="url(#c)">
+<rect class="shine" x="40" y="4" width="180" height="4" fill="url(#s)"/>
+</g>
+</svg>
