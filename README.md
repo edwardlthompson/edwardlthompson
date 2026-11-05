@@ -159,7 +159,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/QuickMediaIngest">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/QuickMediaIngest" alt="QuickMediaIngest" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/QuickMediaIngest.png" alt="QuickMediaIngest" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/QuickMediaIngest"><sub>QuickMediaIngest</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
@@ -182,7 +182,7 @@ Import, transform, and present structured information safely.
 <tr>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/hover-icons">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/hover-icons" alt="hover-icons" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/hover-icons.png" alt="hover-icons" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/hover-icons"><sub>hover-icons</sub></a>
 <br/><sub>★0 · Watch 1 · Fork 0</sub>
@@ -196,16 +196,23 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/SyncMark">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/SyncMark" alt="SyncMark" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/SyncMark.png" alt="SyncMark" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/SyncMark"><sub>SyncMark</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/JanusBoot">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/JanusBoot" alt="JanusBoot" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/JanusBoot.png" alt="JanusBoot" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/JanusBoot"><sub>JanusBoot</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson">
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/linkslander-edwardlthompson.png" alt="linkslander-edwardlthompson" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson"><sub>linkslander-edwardlthompson</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
 </td>
 <td align="center" valign="top" width="14%">
@@ -217,11 +224,13 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/vault-organizer">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/vault-organizer" alt="vault-organizer" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/vault-organizer.png" alt="vault-organizer" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/vault-organizer"><sub>vault-organizer</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/selfchronicle">
 <img src="https://raw.githubusercontent.com/edwardlthompson/selfchronicle/main/examples/web/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="selfchronicle" width="64" />
@@ -229,15 +238,18 @@ Import, transform, and present structured information safely.
 <a href="https://github.com/edwardlthompson/selfchronicle"><sub>selfchronicle</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top" width="14%">
-</td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/3d-game-optimizer">
 <img src="https://raw.githubusercontent.com/edwardlthompson/3d-game-optimizer/main/docs/assets/readme/app-icon.png" alt="3d-game-optimizer" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/3d-game-optimizer"><sub>3d-game-optimizer</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/Google-Messages-For-Desktop">
+<img src="https://raw.githubusercontent.com/edwardlthompson/Google-Messages-For-Desktop/master/branding/assets/app-icon-512.svg" alt="Google-Messages-For-Desktop" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/Google-Messages-For-Desktop"><sub>Google-Messages-For-Desktop</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
 </td>
 <td align="center" valign="top" width="14%">
@@ -249,7 +261,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/takein-sms">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/takein-sms" alt="takein-sms" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/takein-sms.png" alt="takein-sms" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/takein-sms"><sub>takein-sms</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
@@ -260,8 +272,6 @@ Import, transform, and present structured information safely.
 </a><br/>
 <a href="https://github.com/edwardlthompson/Argus"><sub>Argus</sub></a>
 <br/><sub>★0 · Watch 0 · Fork 0</sub>
-</td>
-<td align="center" valign="top" width="14%">
 </td>
 <td align="center" valign="top" width="14%">
 </td>
