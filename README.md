@@ -116,7 +116,7 @@ Import, transform, and present structured information safely.
 <tr>
 <td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/DevPulse">
-<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/branding/assets/app-icon.png" alt="DevPulse" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/branding/assets/app-icon-512.svg" alt="DevPulse" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/DevPulse">DevPulse</a></strong>
 <br/><sub>★ 3</sub><br/><sub>See which Android apps were last updated and which look abandoned. Local-only Play, F-Droid, and forge scan.</sub></td>
@@ -127,28 +127,28 @@ Import, transform, and present structured information safely.
 <strong><a href="https://github.com/edwardlthompson/point-and-shoot">point-and-shoot</a></strong>
 <br/><sub>★ 3</sub><br/><sub>FOSS pro camera app</sub></td>
 </tr><tr>
-<td align="center" valign="top" width="280">
+<td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/HermesLauncher">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/HermesLauncher" alt="HermesLauncher" width="280" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/branding/assets/app-icon-512.svg" alt="HermesLauncher" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/HermesLauncher">HermesLauncher</a></strong>
 <br/><sub>★ 1</sub><br/><sub>FOSS Android home-screen inbox for notifications, news, and podcasts. Cards dismiss only via X. Local vault. MIT.</sub></td>
-<td align="center" valign="top" width="280">
+<td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/AstroAlarm">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/AstroAlarm" alt="AstroAlarm" width="280" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/AstroAlarm">AstroAlarm</a></strong>
 <br/><sub>FOSS Android astronomical alarm clock. On-device NOAA/Meeus ephemeris, solar and lunar events, custom clock wheels, lock</sub></td>
 </tr><tr>
 <td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/QRaft">
-<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/examples/android/metadata/en-US/images/icon.png" alt="QRaft" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/branding/assets/app-icon-512.png" alt="QRaft" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/QRaft">QRaft</a></strong>
 <br/><sub>Craft custom QR codes for widgets, lock-screen glance panels, and full-screen wallpapers. Offline F-Droid-friendly Andro</sub></td>
-<td align="center" valign="top" width="280">
+<td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/trendalgo-bot">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/trendalgo-bot" alt="trendalgo-bot" width="280" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/trendalgo-bot/main/branding/assets/app-icon-512.png" alt="trendalgo-bot" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/trendalgo-bot">trendalgo-bot</a></strong>
 <br/><sub>★ 1</sub><br/><sub>Self-hosted crypto algo bot: Freqtrade, LTS Scanner, portfolio tracker, AI-recommended strategies.</sub></td>
