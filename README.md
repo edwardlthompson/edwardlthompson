@@ -73,6 +73,202 @@ Import, transform, and present structured information safely.
 </tr>
 </table>
 
+## Featured projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/DevPulse">
+<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/branding/assets/app-icon-512.svg" alt="DevPulse" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/DevPulse"><sub>DevPulse</sub></a>
+<br/><sub>★3 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/point-and-shoot">
+<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/point-and-shoot"><sub>point-and-shoot</sub></a>
+<br/><sub>★3 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/trendalgo-bot">
+<img src="https://raw.githubusercontent.com/edwardlthompson/trendalgo-bot/main/branding/assets/app-icon-512.png" alt="trendalgo-bot" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/trendalgo-bot"><sub>trendalgo-bot</sub></a>
+<br/><sub>★1 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/agent-project-bootstrap">
+<img src="https://raw.githubusercontent.com/edwardlthompson/agent-project-bootstrap/main/branding/template/logo-mark.png" alt="agent-project-bootstrap" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/agent-project-bootstrap"><sub>agent-project-bootstrap</sub></a>
+<br/><sub>★1 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/HermesLauncher">
+<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/examples/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HermesLauncher" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/HermesLauncher"><sub>HermesLauncher</sub></a>
+<br/><sub>★1 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/lineage-lens">
+<img src="https://raw.githubusercontent.com/edwardlthompson/lineage-lens/main/branding/template/logo-mark.png" alt="lineage-lens" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/lineage-lens"><sub>lineage-lens</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/continuum-calendar">
+<img src="https://raw.githubusercontent.com/edwardlthompson/continuum-calendar/main/docs/brand/logo-official.png" alt="continuum-calendar" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/continuum-calendar"><sub>continuum-calendar</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/OBDForge">
+<img src="https://raw.githubusercontent.com/edwardlthompson/OBDForge/main/docs/assets/icon.png" alt="OBDForge" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/OBDForge"><sub>OBDForge</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/AstroAlarm">
+<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/AstroAlarm"><sub>AstroAlarm</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/OpenShouter">
+<img src="https://raw.githubusercontent.com/edwardlthompson/OpenShouter/main/branding/assets/app-icon-512.png" alt="OpenShouter" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/OpenShouter"><sub>OpenShouter</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/chromaflow">
+<img src="https://raw.githubusercontent.com/edwardlthompson/chromaflow/main/branding/assets/app-icon-512.svg" alt="chromaflow" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/chromaflow"><sub>chromaflow</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/QuickMediaIngest">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/QuickMediaIngest" alt="QuickMediaIngest" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/QuickMediaIngest"><sub>QuickMediaIngest</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/aetherfeed">
+<img src="https://raw.githubusercontent.com/edwardlthompson/aetherfeed/main/examples/desktop/src-tauri/icons/icon.png" alt="aetherfeed" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/aetherfeed"><sub>aetherfeed</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/QRaft">
+<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/branding/assets/app-icon-512.png" alt="QRaft" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/QRaft"><sub>QRaft</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/hover-icons">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/hover-icons" alt="hover-icons" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/hover-icons"><sub>hover-icons</sub></a>
+<br/><sub>★0 · Watch 1 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/MultiAppShare-">
+<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/fastlane/metadata/android/en-US/images/icon.png" alt="MultiAppShare-" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/MultiAppShare-"><sub>MultiAppShare-</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/SyncMark">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/SyncMark" alt="SyncMark" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/SyncMark"><sub>SyncMark</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/JanusBoot">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/JanusBoot" alt="JanusBoot" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/JanusBoot"><sub>JanusBoot</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/ExpeditionGauge">
+<img src="https://raw.githubusercontent.com/edwardlthompson/ExpeditionGauge/main/docs/assets/app-icon-512.png" alt="ExpeditionGauge" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/ExpeditionGauge"><sub>ExpeditionGauge</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/vault-organizer">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/vault-organizer" alt="vault-organizer" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/vault-organizer"><sub>vault-organizer</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/selfchronicle">
+<img src="https://raw.githubusercontent.com/edwardlthompson/selfchronicle/main/examples/web/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="selfchronicle" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/selfchronicle"><sub>selfchronicle</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="14%">
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/3d-game-optimizer">
+<img src="https://raw.githubusercontent.com/edwardlthompson/3d-game-optimizer/main/docs/assets/readme/app-icon.png" alt="3d-game-optimizer" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/3d-game-optimizer"><sub>3d-game-optimizer</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/screen-wakelock-detector">
+<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/docs/design/icon-reference-512.png" alt="screen-wakelock-detector" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/screen-wakelock-detector"><sub>screen-wakelock-detector</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/takein-sms">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/takein-sms" alt="takein-sms" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/takein-sms"><sub>takein-sms</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/Argus">
+<img src="https://raw.githubusercontent.com/edwardlthompson/Argus/main/branding/assets/app-icon-512.svg" alt="Argus" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/Argus"><sub>Argus</sub></a>
+<br/><sub>★0 · Watch 0 · Fork 0</sub>
+</td>
+<td align="center" valign="top" width="14%">
+</td>
+<td align="center" valign="top" width="14%">
+</td>
+</tr>
+</table>
+</div>
+
 ## Tech stack
 
 ### Languages
@@ -107,177 +303,6 @@ Import, transform, and present structured information safely.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS" />
-</div>
-
-## Featured projects
-
-<div align="center">
-<table>
-<tr>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/DevPulse">
-<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/examples/android/metadata/en-US/images/icon.png" alt="DevPulse" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/DevPulse"><sub>DevPulse</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/point-and-shoot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/point-and-shoot"><sub>point-and-shoot</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/HermesLauncher">
-<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/examples/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HermesLauncher" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/HermesLauncher"><sub>HermesLauncher</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/AstroAlarm">
-<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/AstroAlarm"><sub>AstroAlarm</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/QRaft">
-<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/branding/assets/logo-mark.png" alt="QRaft" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/QRaft"><sub>QRaft</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/trendalgo-bot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/trendalgo-bot/main/branding/assets/app-icon-512.png" alt="trendalgo-bot" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/trendalgo-bot"><sub>trendalgo-bot</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/OpenShouter">
-<img src="https://raw.githubusercontent.com/edwardlthompson/OpenShouter/main/branding/assets/logo-mark.png" alt="OpenShouter" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/OpenShouter"><sub>OpenShouter</sub></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/ExpeditionGauge">
-<img src="https://raw.githubusercontent.com/edwardlthompson/ExpeditionGauge/main/docs/assets/app-icon-512.png" alt="ExpeditionGauge" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/ExpeditionGauge"><sub>ExpeditionGauge</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/OBDForge">
-<img src="https://raw.githubusercontent.com/edwardlthompson/OBDForge/main/docs/assets/icon.png" alt="OBDForge" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/OBDForge"><sub>OBDForge</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/continuum-calendar">
-<img src="https://raw.githubusercontent.com/edwardlthompson/continuum-calendar/main/docs/brand/logo-official.png" alt="continuum-calendar" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/continuum-calendar"><sub>continuum-calendar</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/screen-wakelock-detector">
-<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/docs/design/icon-reference-512.png" alt="screen-wakelock-detector" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/screen-wakelock-detector"><sub>screen-wakelock-detector</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/MultiAppShare-">
-<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/fastlane/metadata/android/en-US/images/icon.png" alt="MultiAppShare-" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/MultiAppShare-"><sub>MultiAppShare-</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/agent-project-bootstrap">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/agent-project-bootstrap" alt="agent-project-bootstrap" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/agent-project-bootstrap"><sub>agent-project-bootstrap</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/lineage-lens">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/lineage-lens" alt="lineage-lens" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/lineage-lens"><sub>lineage-lens</sub></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/chromaflow">
-<img src="https://raw.githubusercontent.com/edwardlthompson/chromaflow/main/branding/assets/app-icon-512.svg" alt="chromaflow" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/chromaflow"><sub>chromaflow</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/QuickMediaIngest">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/QuickMediaIngest" alt="QuickMediaIngest" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/QuickMediaIngest"><sub>QuickMediaIngest</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/aetherfeed">
-<img src="https://raw.githubusercontent.com/edwardlthompson/aetherfeed/main/examples/desktop/src-tauri/icons/icon.png" alt="aetherfeed" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/aetherfeed"><sub>aetherfeed</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/hover-icons">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/hover-icons" alt="hover-icons" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/hover-icons"><sub>hover-icons</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/SyncMark">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/SyncMark" alt="SyncMark" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/SyncMark"><sub>SyncMark</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/JanusBoot">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/JanusBoot" alt="JanusBoot" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/JanusBoot"><sub>JanusBoot</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/vault-organizer">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/vault-organizer" alt="vault-organizer" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/vault-organizer"><sub>vault-organizer</sub></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="14%">
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/selfchronicle">
-<img src="https://raw.githubusercontent.com/edwardlthompson/selfchronicle/main/examples/web/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="selfchronicle" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/selfchronicle"><sub>selfchronicle</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/3d-game-optimizer">
-<img src="https://raw.githubusercontent.com/edwardlthompson/3d-game-optimizer/main/docs/assets/readme/app-icon.png" alt="3d-game-optimizer" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/3d-game-optimizer"><sub>3d-game-optimizer</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/takein-sms">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/takein-sms" alt="takein-sms" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/takein-sms"><sub>takein-sms</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/Argus">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/Argus" alt="Argus" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/Argus"><sub>Argus</sub></a>
-</td>
-<td align="center" valign="top" width="14%">
-</td>
-<td align="center" valign="top" width="14%">
-</td>
-</tr>
-</table>
 </div>
 
 ## Current focus
