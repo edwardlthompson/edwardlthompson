@@ -114,83 +114,79 @@ Import, transform, and present structured information safely.
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="top" width="140">
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/DevPulse">
-<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/examples/android/metadata/en-US/images/icon.png" alt="DevPulse" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/examples/android/metadata/en-US/images/icon.png" alt="DevPulse" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/DevPulse">DevPulse</a></strong>
-<br/><sub>★ 3</sub><br/><sub>See which Android apps were last updated and which look abandoned. Local-only Play, F-Droid, and forge scan.</sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/DevPulse"><sub>DevPulse</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/point-and-shoot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/point-and-shoot">point-and-shoot</a></strong>
-<br/><sub>★ 3</sub><br/><sub>FOSS pro camera app</sub></td>
-</tr><tr>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/point-and-shoot"><sub>point-and-shoot</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/HermesLauncher">
-<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/examples/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HermesLauncher" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/examples/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HermesLauncher" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/HermesLauncher">HermesLauncher</a></strong>
-<br/><sub>★ 1</sub><br/><sub>FOSS Android home-screen inbox for notifications, news, and podcasts. Cards dismiss only via X. Local vault. MIT.</sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/HermesLauncher"><sub>HermesLauncher</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/AstroAlarm">
-<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/AstroAlarm/main/branding/assets/app-icon-512.svg" alt="AstroAlarm" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/AstroAlarm">AstroAlarm</a></strong>
-<br/><sub>FOSS Android astronomical alarm clock. On-device NOAA/Meeus ephemeris, solar and lunar events, custom clock wheels, lock</sub></td>
-</tr><tr>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/AstroAlarm"><sub>AstroAlarm</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/QRaft">
-<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/branding/assets/logo-mark.png" alt="QRaft" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/branding/assets/logo-mark.png" alt="QRaft" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/QRaft">QRaft</a></strong>
-<br/><sub>Craft custom QR codes for widgets, lock-screen glance panels, and full-screen wallpapers. Offline F-Droid-friendly Andro</sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/QRaft"><sub>QRaft</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/trendalgo-bot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/trendalgo-bot/main/branding/assets/app-icon-512.png" alt="trendalgo-bot" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/trendalgo-bot/main/branding/assets/app-icon-512.png" alt="trendalgo-bot" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/trendalgo-bot">trendalgo-bot</a></strong>
-<br/><sub>★ 1</sub><br/><sub>Self-hosted crypto algo bot: Freqtrade, LTS Scanner, portfolio tracker, AI-recommended strategies.</sub></td>
+<a href="https://github.com/edwardlthompson/trendalgo-bot"><sub>trendalgo-bot</sub></a>
+</td>
 </tr><tr>
-<td align="center" valign="top" width="140">
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/OpenShouter">
-<img src="https://raw.githubusercontent.com/edwardlthompson/OpenShouter/main/branding/assets/logo-mark.png" alt="OpenShouter" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/OpenShouter/main/branding/assets/logo-mark.png" alt="OpenShouter" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/OpenShouter">OpenShouter</a></strong>
-<br/><sub>Speaks the Android alerts you choose so you can look away — notifications, caller ID, quiet hours.</sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/OpenShouter"><sub>OpenShouter</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/ExpeditionGauge">
-<img src="https://raw.githubusercontent.com/edwardlthompson/ExpeditionGauge/main/docs/assets/app-icon-512.png" alt="ExpeditionGauge" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/ExpeditionGauge/main/docs/assets/app-icon-512.png" alt="ExpeditionGauge" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/ExpeditionGauge">ExpeditionGauge</a></strong>
-<br/><sub>Offline-first automotive HUD with recording, playback, and opt-in live telemetry. FOSS MIT.</sub></td>
-</tr><tr>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/ExpeditionGauge"><sub>ExpeditionGauge</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/OBDForge">
-<img src="https://raw.githubusercontent.com/edwardlthompson/OBDForge/main/docs/assets/icon.png" alt="OBDForge" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/OBDForge/main/docs/assets/icon.png" alt="OBDForge" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/OBDForge">OBDForge</a></strong>
-<br/><sub>Free open-source Android OBD-II diagnostics: multi-transport (BT/USB/WiFi/Ethernet), OBDLink STN/STPX, live data, local </sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/OBDForge"><sub>OBDForge</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/continuum-calendar">
-<img src="https://raw.githubusercontent.com/edwardlthompson/continuum-calendar/main/apps/mobile/fastlane/metadata/android/en-US/images/icon.png" alt="continuum-calendar" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/continuum-calendar/main/docs/brand/logo-official.png" alt="continuum-calendar" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/continuum-calendar">continuum-calendar</a></strong>
-<br/><sub>FOSS cross-platform calendar: Tauri desktop + Android, rolling week, Google sync, Continuum brand</sub></td>
-</tr><tr>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/continuum-calendar"><sub>continuum-calendar</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/screen-wakelock-detector">
-<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/docs/design/icon-reference-512.png" alt="screen-wakelock-detector" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/docs/design/icon-reference-512.png" alt="screen-wakelock-detector" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/screen-wakelock-detector">screen-wakelock-detector</a></strong>
-<br/><sub>Find what wakes your screen. See the app and channel, mute it in one tap—all local, no cloud.</sub></td>
-<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/screen-wakelock-detector"><sub>screen-wakelock-detector</sub></a>
+</td>
+<td align="center" valign="top" width="16%">
 <a href="https://github.com/edwardlthompson/MultiAppShare-">
-<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/fastlane/metadata/android/en-US/images/icon.png" alt="MultiAppShare-" width="96" height="96" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/fastlane/metadata/android/en-US/images/icon.png" alt="MultiAppShare-" width="72" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/MultiAppShare-">MultiAppShare-</a></strong>
-<br/><sub>Streamline sharing across multiple Android apps sequentially. Create custom groups to share photos, videos, or text in a</sub></td>
+<a href="https://github.com/edwardlthompson/MultiAppShare-"><sub>MultiAppShare-</sub></a>
+</td>
 </tr>
 </table>
 </div>
