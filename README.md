@@ -5,6 +5,7 @@
 
 
 <p>
+<a href="https://github.com/edwardlthompson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Puerto_Rico-location-0ea5e9?style=for-the-badge" alt="Puerto Rico" />
 </p>
 
@@ -74,15 +75,38 @@ Import, transform, and present structured information safely.
 
 ## Tech stack
 
+### Languages
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" title="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="48" height="48" title="Shell" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" title="PowerShell" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" title="Rust" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40" title="Csharp" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" title="Rust" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" title="Shell" />
+</div>
+### Mobile and apps
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40" title="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin" />
+</div>
+### Automation and tools
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" title="Shell" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" title="PowerShell" />
+</div>
+### Web and data
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS" />
 </div>
 
 ## Featured projects
@@ -90,47 +114,62 @@ Import, transform, and present structured information safely.
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="top" width="280">
+<td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/DevPulse">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/DevPulse" alt="DevPulse" width="280" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/DevPulse/main/branding/assets/app-icon.png" alt="DevPulse" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/DevPulse">DevPulse</a></strong>
-<br/><sub>See which Android apps were last updated and which look abandoned. Local-only Play, F-Droid, and forge scan.</sub></td>
-<td align="center" valign="top" width="280">
+<br/><sub>★ 3</sub><br/><sub>See which Android apps were last updated and which look abandoned. Local-only Play, F-Droid, and forge scan.</sub></td>
+<td align="center" valign="top" width="140">
 <a href="https://github.com/edwardlthompson/point-and-shoot">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/point-and-shoot" alt="point-and-shoot" width="280" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="96" height="96" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/point-and-shoot">point-and-shoot</a></strong>
-<br/><sub>FOSS pro camera app</sub></td>
-</tr><tr>
-<td align="center" valign="top" width="280">
-<a href="https://github.com/edwardlthompson/trendalgo-bot">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/trendalgo-bot" alt="trendalgo-bot" width="280" />
-</a><br/>
-<strong><a href="https://github.com/edwardlthompson/trendalgo-bot">trendalgo-bot</a></strong>
-<br/><sub>Self-hosted crypto algo bot: Freqtrade, LTS Scanner, portfolio tracker, AI-recommended strategies.</sub></td>
-<td align="center" valign="top" width="280">
-<a href="https://github.com/edwardlthompson/agent-project-bootstrap">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/agent-project-bootstrap" alt="agent-project-bootstrap" width="280" />
-</a><br/>
-<strong><a href="https://github.com/edwardlthompson/agent-project-bootstrap">agent-project-bootstrap</a></strong>
-<br/><sub>Cursor agent bootstrap template for FOSS projects. Labeled BUILD_PLAN sprints, configurable GitHub update checker, Depen</sub></td>
+<br/><sub>★ 3</sub><br/><sub>FOSS pro camera app</sub></td>
 </tr><tr>
 <td align="center" valign="top" width="280">
 <a href="https://github.com/edwardlthompson/HermesLauncher">
 <img src="https://opengraph.githubassets.com/argus/edwardlthompson/HermesLauncher" alt="HermesLauncher" width="280" />
 </a><br/>
 <strong><a href="https://github.com/edwardlthompson/HermesLauncher">HermesLauncher</a></strong>
-<br/><sub>FOSS Android home-screen inbox for notifications, news, and podcasts. Cards dismiss only via X. Local vault. MIT.</sub></td>
+<br/><sub>★ 1</sub><br/><sub>FOSS Android home-screen inbox for notifications, news, and podcasts. Cards dismiss only via X. Local vault. MIT.</sub></td>
 <td align="center" valign="top" width="280">
-<a href="https://github.com/edwardlthompson/lineage-lens">
-<img src="https://opengraph.githubassets.com/argus/edwardlthompson/lineage-lens" alt="lineage-lens" width="280" />
+<a href="https://github.com/edwardlthompson/AstroAlarm">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/AstroAlarm" alt="AstroAlarm" width="280" />
 </a><br/>
-<strong><a href="https://github.com/edwardlthompson/lineage-lens">lineage-lens</a></strong>
-<br/><sub>Camera-first LineageOS device specs and purchasing guide</sub></td>
+<strong><a href="https://github.com/edwardlthompson/AstroAlarm">AstroAlarm</a></strong>
+<br/><sub>FOSS Android astronomical alarm clock. On-device NOAA/Meeus ephemeris, solar and lunar events, custom clock wheels, lock</sub></td>
+</tr><tr>
+<td align="center" valign="top" width="140">
+<a href="https://github.com/edwardlthompson/QRaft">
+<img src="https://raw.githubusercontent.com/edwardlthompson/QRaft/main/examples/android/metadata/en-US/images/icon.png" alt="QRaft" width="96" height="96" />
+</a><br/>
+<strong><a href="https://github.com/edwardlthompson/QRaft">QRaft</a></strong>
+<br/><sub>Craft custom QR codes for widgets, lock-screen glance panels, and full-screen wallpapers. Offline F-Droid-friendly Andro</sub></td>
+<td align="center" valign="top" width="280">
+<a href="https://github.com/edwardlthompson/trendalgo-bot">
+<img src="https://opengraph.githubassets.com/argus/edwardlthompson/trendalgo-bot" alt="trendalgo-bot" width="280" />
+</a><br/>
+<strong><a href="https://github.com/edwardlthompson/trendalgo-bot">trendalgo-bot</a></strong>
+<br/><sub>★ 1</sub><br/><sub>Self-hosted crypto algo bot: Freqtrade, LTS Scanner, portfolio tracker, AI-recommended strategies.</sub></td>
 </tr>
 </table>
 </div>
+
+## Current focus
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<strong>Portfolio hygiene</strong><br/>
+Keeping public Overview and FOSS apps aligned with live evidence via Argus.
+</td>
+<td width="50%" valign="top" align="center">
+<strong>Local-first apps</strong><br/>
+Android and desktop tools that respect privacy and work offline.
+</td>
+</tr>
+</table>
 
 ## Development principles
 
@@ -138,7 +177,27 @@ Import, transform, and present structured information safely.
 
 ## Also open to
 
-Software development, automation, FOSS collaboration, and clean secure apps.
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+<strong>Software development</strong><br/>
+Practical builds across automation, apps, and FOSS tooling.
+</td>
+<td width="25%" valign="top" align="center">
+<strong>Automation</strong><br/>
+Scheduled systems, bots, CI, and workflow cleanup.
+</td>
+</tr><tr>
+<td width="25%" valign="top" align="center">
+<strong>FOSS collaboration</strong><br/>
+Issues, PRs, and shared maintainership on MIT-licensed work.
+</td>
+<td width="25%" valign="top" align="center">
+<strong>Clean secure apps</strong><br/>
+Local vaults, clear UX, and maintainable architecture.
+</td>
+</tr>
+</table>
 
 ---
 
