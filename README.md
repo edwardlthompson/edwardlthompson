@@ -88,33 +88,18 @@ Import, transform, and present structured information safely.
 </a><br/>
 <a href="https://github.com/edwardlthompson/OBDForge"><sub>OBDForge</sub></a>
 <br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 62
-</sub>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/agent-project-bootstrap">
-<img src="https://raw.githubusercontent.com/edwardlthompson/agent-project-bootstrap/main/branding/template/logo-mark.png" alt="agent-project-bootstrap" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/agent-project-bootstrap"><sub>agent-project-bootstrap</sub></a>
-<br/><sub>
 <img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 1
 ·
 <img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 29
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 96
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/screen-wakelock-detector">
-<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/docs/design/icon-reference-512.png" alt="screen-wakelock-detector" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/screen-wakelock-detector/main/branding/assets/app-icon-512.png" alt="screen-wakelock-detector" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/screen-wakelock-detector"><sub>screen-wakelock-detector</sub></a>
 <br/><sub>
@@ -124,12 +109,27 @@ Import, transform, and present structured information safely.
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 26
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 42
+</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/agent-project-bootstrap">
+<img src="https://raw.githubusercontent.com/edwardlthompson/agent-project-bootstrap/main/branding/assets/app-icon-512.png" alt="agent-project-bootstrap" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/agent-project-bootstrap"><sub>agent-project-bootstrap</sub></a>
+<br/><sub>
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 1
+·
+<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 40
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/MultiAppShare-">
-<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/fastlane/metadata/android/en-US/images/icon.png" alt="MultiAppShare-" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/MultiAppShare-/main/branding/assets/app-icon-512.png" alt="MultiAppShare-" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/MultiAppShare-"><sub>MultiAppShare-</sub></a>
 <br/><sub>
@@ -139,7 +139,7 @@ Import, transform, and present structured information safely.
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 24
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 31
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
@@ -154,7 +154,22 @@ Import, transform, and present structured information safely.
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 24
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 29
+</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/QuickMediaIngest">
+<img src="https://raw.githubusercontent.com/edwardlthompson/QuickMediaIngest/main/branding/assets/app-icon-512.png" alt="QuickMediaIngest" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/QuickMediaIngest"><sub>QuickMediaIngest</sub></a>
+<br/><sub>
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 21
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
@@ -164,21 +179,6 @@ Import, transform, and present structured information safely.
 <a href="https://github.com/edwardlthompson/DevPulse"><sub>DevPulse</sub></a>
 <br/><sub>
 <img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 3
-·
-<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 12
-</sub>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/QuickMediaIngest">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/QuickMediaIngest.png" alt="QuickMediaIngest" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/QuickMediaIngest"><sub>QuickMediaIngest</sub></a>
-<br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
 ·
 <img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
 ·
@@ -201,22 +201,22 @@ Import, transform, and present structured information safely.
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 5
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 4
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/point-and-shoot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/metadata/en-US/icon.png" alt="point-and-shoot" width="64" />
+<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson">
+<img src="https://raw.githubusercontent.com/edwardlthompson/linkslander-edwardlthompson/main/branding/assets/app-icon-512.png" alt="linkslander-edwardlthompson" width="64" />
 </a><br/>
-<a href="https://github.com/edwardlthompson/point-and-shoot"><sub>point-and-shoot</sub></a>
+<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson"><sub>linkslander-edwardlthompson</sub></a>
 <br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 3
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
 ·
 <img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
 ·
 <img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
 ·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 1
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 4
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
@@ -250,12 +250,27 @@ Import, transform, and present structured information safely.
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/HermesLauncher">
-<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/examples/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="HermesLauncher" width="64" />
+<a href="https://github.com/edwardlthompson/point-and-shoot">
+<img src="https://raw.githubusercontent.com/edwardlthompson/point-and-shoot/main/branding/assets/app-icon-512.png" alt="point-and-shoot" width="64" />
 </a><br/>
-<a href="https://github.com/edwardlthompson/HermesLauncher"><sub>HermesLauncher</sub></a>
+<a href="https://github.com/edwardlthompson/point-and-shoot"><sub>point-and-shoot</sub></a>
 <br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 1
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 3
+·
+<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 0
+</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/3d-game-optimizer">
+<img src="https://raw.githubusercontent.com/edwardlthompson/3d-game-optimizer/main/branding/assets/app-icon-512.png" alt="3d-game-optimizer" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/3d-game-optimizer"><sub>3d-game-optimizer</sub></a>
+<br/><sub>
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
 ·
 <img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
 ·
@@ -264,38 +279,6 @@ Import, transform, and present structured information safely.
 <img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 2
 </sub>
 </td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/lineage-lens">
-<img src="https://raw.githubusercontent.com/edwardlthompson/lineage-lens/main/branding/template/logo-mark.png" alt="lineage-lens" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/lineage-lens"><sub>lineage-lens</sub></a>
-<br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 3
-</sub>
-</td>
-<td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/selfchronicle">
-<img src="https://raw.githubusercontent.com/edwardlthompson/selfchronicle/main/examples/web/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="selfchronicle" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/selfchronicle"><sub>selfchronicle</sub></a>
-<br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 3
-</sub>
-</td>
-</tr>
-<tr>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/ExpeditionGauge">
 <img src="https://raw.githubusercontent.com/edwardlthompson/ExpeditionGauge/main/docs/assets/app-icon-512.png" alt="ExpeditionGauge" width="64" />
@@ -311,11 +294,43 @@ Import, transform, and present structured information safely.
 <img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 2
 </sub>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/linkslander-edwardlthompson.png" alt="linkslander-edwardlthompson" width="64" />
+<a href="https://github.com/edwardlthompson/HermesLauncher">
+<img src="https://raw.githubusercontent.com/edwardlthompson/HermesLauncher/main/branding/assets/app-icon-512.png" alt="HermesLauncher" width="64" />
 </a><br/>
-<a href="https://github.com/edwardlthompson/linkslander-edwardlthompson"><sub>linkslander-edwardlthompson</sub></a>
+<a href="https://github.com/edwardlthompson/HermesLauncher"><sub>HermesLauncher</sub></a>
+<br/><sub>
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 1
+·
+<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 1
+</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/lineage-lens">
+<img src="https://raw.githubusercontent.com/edwardlthompson/lineage-lens/main/branding/assets/app-icon-512.png" alt="lineage-lens" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/lineage-lens"><sub>lineage-lens</sub></a>
+<br/><sub>
+<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
+·
+<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 2
+</sub>
+</td>
+<td align="center" valign="top" width="14%">
+<a href="https://github.com/edwardlthompson/bl4-forge">
+<img src="https://raw.githubusercontent.com/edwardlthompson/bl4-forge/main/branding/assets/app-icon-512.png" alt="bl4-forge" width="64" />
+</a><br/>
+<a href="https://github.com/edwardlthompson/bl4-forge"><sub>bl4-forge</sub></a>
 <br/><sub>
 <img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
 ·
@@ -328,7 +343,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/vault-organizer">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/vault-organizer.png" alt="vault-organizer" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/vault-organizer/main/branding/assets/app-icon-512.png" alt="vault-organizer" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/vault-organizer"><sub>vault-organizer</sub></a>
 <br/><sub>
@@ -342,23 +357,8 @@ Import, transform, and present structured information safely.
 </sub>
 </td>
 <td align="center" valign="top" width="14%">
-<a href="https://github.com/edwardlthompson/3d-game-optimizer">
-<img src="https://raw.githubusercontent.com/edwardlthompson/3d-game-optimizer/main/docs/assets/readme/app-icon.png" alt="3d-game-optimizer" width="64" />
-</a><br/>
-<a href="https://github.com/edwardlthompson/3d-game-optimizer"><sub>3d-game-optimizer</sub></a>
-<br/><sub>
-<img src="./assets/octicons/star-16.svg" alt="Stars" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/eye-16.svg" alt="Watching" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/repo-forked-16.svg" alt="Forks" width="12" height="12" /> 0
-·
-<img src="./assets/octicons/pulse-16.svg" alt="Views" width="12" height="12" /> 0
-</sub>
-</td>
-<td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/aetherfeed">
-<img src="https://raw.githubusercontent.com/edwardlthompson/aetherfeed/main/examples/desktop/src-tauri/icons/icon.png" alt="aetherfeed" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/aetherfeed/main/branding/assets/app-icon-512.png" alt="aetherfeed" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/aetherfeed"><sub>aetherfeed</sub></a>
 <br/><sub>
@@ -422,7 +422,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/JanusBoot">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/JanusBoot.png" alt="JanusBoot" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/JanusBoot/main/branding/assets/app-icon-512.png" alt="JanusBoot" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/JanusBoot"><sub>JanusBoot</sub></a>
 <br/><sub>
@@ -452,7 +452,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/SyncMark">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/SyncMark.png" alt="SyncMark" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/SyncMark/main/branding/assets/app-icon-512.png" alt="SyncMark" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/SyncMark"><sub>SyncMark</sub></a>
 <br/><sub>
@@ -467,7 +467,7 @@ Import, transform, and present structured information safely.
 </td>
 <td align="center" valign="top" width="14%">
 <a href="https://github.com/edwardlthompson/takein-sms">
-<img src="https://raw.githubusercontent.com/edwardlthompson/edwardlthompson/main/assets/argus-icons/takein-sms.png" alt="takein-sms" width="64" />
+<img src="https://raw.githubusercontent.com/edwardlthompson/takein-sms/main/branding/assets/app-icon-512.png" alt="takein-sms" width="64" />
 </a><br/>
 <a href="https://github.com/edwardlthompson/takein-sms"><sub>takein-sms</sub></a>
 <br/><sub>
@@ -573,10 +573,3 @@ Local vaults, clear UX, and maintainable architecture.
 ---
 
 _Updated by [Argus](https://github.com/edwardlthompson/Argus). Marker: `argus:profile-readme`._
-
-## What this is not
-
-- A finished commercial product promise
-- A place for secrets or production credentials
-- An unbounded scope — see README goals above
-
